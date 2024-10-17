@@ -1,2 +1,2 @@
-# DIO-VIVO
-Estudando o BootCamp da DIO patrocinado pela VIVO
+# DIO
+Estudos realizados na DIO
